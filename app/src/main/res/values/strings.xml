@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hotel SENA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="medicos">
+        <item>Medico 1</item>
+        <item>Medico 2</item>
+        <item>Medico 3</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812816207896",
+    "firebase_url": "https://hotel-sena.firebaseio.com",
+    "project_id": "hotel-sena",
+    "storage_bucket": "hotel-sena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812816207896:android:a95dd73d523366b709b36d",
+        "android_client_info": {
+          "package_name": "co.jjsolarte.hotelsena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812816207896-cots1jsmgbufq2dmhsgad479jg9di8pk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jjsolarte.hotelsena",
+            "certificate_hash": "230174bb9c5327b439d50c6a2a9279ddcb5fb359"
+          }
+        },
+        {
+          "client_id": "812816207896-m2nu4lgjdpa6i9119q2h1s5doqb5hi01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO5QFTG1pNJiT-w3GMSoqnzxEuvqYTdec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812816207896-m2nu4lgjdpa6i9119q2h1s5doqb5hi01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
